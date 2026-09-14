@@ -43,7 +43,7 @@ joy        opens up
        ↓
   Système de décision
      ↙       ↘
-   CSV        FSM
+   CSV        FSM (machine a etats finis)
      ↘       ↙
     Action
        ↓
