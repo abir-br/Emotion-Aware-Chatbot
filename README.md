@@ -35,8 +35,12 @@ Message utilisateur
         ↓
    Scores VAD
         ↓
-Émotion + Réaction
-        ↓
+Émotion  + Réaction
+   ↓          ↓
+sadness    rejects help
+anger      stays negative
+joy        opens up
+       ↓
   Système de décision
      ↙       ↘
    CSV        FSM
